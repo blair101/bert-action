@@ -1,7 +1,6 @@
 #!/bin/bash
 
 echo "start deploy my blog source..."
-gupv
 git pull
 git status
 git add *
